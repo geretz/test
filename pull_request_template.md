@@ -1,0 +1,4 @@
+- [ ] Code was checked for typos
+- [ ] Automated tests were run (if applicable)
+- [ ] Test was created that failed for previous version of the code
+- [ ] Test is now passing
